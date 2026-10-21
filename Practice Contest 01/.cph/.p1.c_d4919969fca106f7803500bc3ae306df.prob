@@ -1,0 +1,1 @@
+{"name":"Local: p1","url":"e:\\My Code Practice\\Practice Contest 01\\p1.c","tests":[{"id":1792424406043,"input":"8\n1 1 0 1 1 1 0 1","output":"3"},{"id":1792425174051,"input":"5","output":"0 0 0 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Code Practice\\Practice Contest 01\\p1.c","group":"local","local":true}
